@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">55557_Zaliczenie_PG</string>
+    <string name="registration_app">Registration App</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_registered_login_here">Already registered! Login Here</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+</resources>

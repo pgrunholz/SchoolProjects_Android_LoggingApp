@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438391839813",
+    "project_id": "zaliczenie-pg",
+    "storage_bucket": "zaliczenie-pg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438391839813:android:360ca4fe82340fd880d72c",
+        "android_client_info": {
+          "package_name": "com.example.a55557_zaliczenie_pg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438391839813-v8tqqo1plfv0pvo90i5tq0qdq85upq17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0vs-LmmOyj9Av6fz0AU1ZPOVUehzLcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438391839813-v8tqqo1plfv0pvo90i5tq0qdq85upq17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
